@@ -1,4 +1,5 @@
-JobSearchApplication
+# JobSearchApplication
+
 Technologies
 Java
 Spring Boot
@@ -6,6 +7,7 @@ Spring Data JPA
 Spring MVC
 Spring Actuator
 MangoDB Database 
+
 Modules
 1. Companies
 Lists all the company names providing jobs
